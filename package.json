@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhukhanhqlktb/demo-learn-git-myself.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nhukhanhqlktb/demo-learn-git-myself/issues"
+  },
+  "homepage": "https://github.com/nhukhanhqlktb/demo-learn-git-myself#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
 }
